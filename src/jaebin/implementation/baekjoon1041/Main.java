@@ -1,4 +1,4 @@
-package jaebin.baekjoon1041;
+package jaebin.implementation.baekjoon1041;
 
 
 import java.io.BufferedReader;

@@ -1,4 +1,4 @@
-package jaebin.baekjoon16438;
+package jaebin.divide_and_conquer.baekjoon16438;
 
 
 import java.io.BufferedReader;
